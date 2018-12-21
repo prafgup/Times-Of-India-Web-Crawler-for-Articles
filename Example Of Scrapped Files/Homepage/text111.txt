@@ -1,0 +1,26 @@
+Title
+New health app to send alerts for unhealthy lifestyle choices - Times of India
+
+Link
+https://timesofindia.indiatimes.com/home/education/news/new-health-app-to-send-alerts-for-unhealthy-lifestyle-choices/articleshow/67189591.cms
+
+Date & Time
+Dec 21, 2018, 12:02 IST
+
+Text
+KOLKATA: A research team at IIT-Kharagpur is developing a mobile application which can monitor day-to- day activities and smoking habits of an individual and make suitable recommendations.
+
+
+The sensor-based health app will send alerts to the user, warning him about his unhealthy lifestyle choices, an IIT-KGP statement said Thursday.
+
+The new tracking kit, being developed by Rajendra Mishra School of Engineering Entrepreneurship at IIT- Kharagpur, can also go a long way in gauging addictive and depressive behaviour, it said.
+
+"The technology, once integrated with a smartphone or a fitness band, will prepare a daily activity chart based on body movements and predict functions such as eating and drinking. The application can also monitor call and message logs and smartphone usage," the statement said.
+
+Ram Babu Roy, assistant professor at (RMSoEE), said the application will provide personalized services after data analysis.
+
+"We did a pilot study on four participants. The research team collected GPS data as well other location-based information and took note of their physical movement. It helped us create health and behavioural profiles of the individuals," Roy, who is leading project, said.
+
+The app will be able to process data in different environments and demarcate between "normal and abnormal activities", he added.
+
+Download The Times of India News App for Latest Home News.

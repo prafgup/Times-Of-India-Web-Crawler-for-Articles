@@ -1,0 +1,27 @@
+Title
+Donald joins list of worst passwords - Times of India
+
+Link
+https://timesofindia.indiatimes.com/home/science/donald-joins-list-of-worst-passwords/articleshow/67111916.cms
+
+Date & Time
+Updated: Dec 16, 2018, 09:28 IST
+
+Text
+Have we learned nothing from the numerous hacks and leaks in recent memory? Apparently not.
+
+In a world where every service requires one to have a password, it’s hard not to be lazy. We assume that the chance that someone is looking to hack the most inconsequential of accounts must be slim.
+
+Password management company Splash Data released its annual list of the 100 worst passwords of the year based on 5 million leaked passwords on the internet. The eighth iteration of the list, it seems that despite the many data breaches in the recent past, we have still not learnt our lesson. The top worst passwords continue to be ‘123456’ and ‘password’ for the fifth year in a row.
+
+Some of you have switched things up, as there are several new entries to this year’s list, like ‘donald’ ranked at number 23, presumably inspired by President Donald Trump.
+
+If you have committed the grave error of opting for one of the easy passwords on the list, don’t worry because you’re in esteemed company. The Pentagon didn’t change the password to their weapon’s system from the default password. According to an audit by the Government Accountability Office, officers were able to guess admin passwords in just nine seconds.
+
+Rapper Kanye West is also guilty of taking the easy way out when it comes to passwords. During a meeting with US president Donald Trump in October, West took out his iPhone and unlocked it using the not-soclever code ‘000000’, paying no heed to the many cameras witnessing the affair.
+
+Splash Data has also offered solutions for those who have passwords featured on the list. They recommend using passphrases of twelve characters or more with a mixed types of characters. Having unique passwords for each account was also recommended. That way, even if a hacker accesses one of your accounts, they will not be able to use it to access other sites.
+
+How do you keep track of all these unique passwords? Splash Data suggests using a password manager. This allows you to protect your identity by organizing your many passwords, generating secure random passwords and lets you log into websites automatically. 
+
+Download The Times of India News App for Latest Home News.

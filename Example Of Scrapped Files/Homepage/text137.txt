@@ -1,0 +1,33 @@
+Title
+IIT ropra water pollution: IIT-Ropar makes low-cost device to check water pollution 
+
+Link
+https://timesofindia.indiatimes.com/city/chandigarh/iit-makes-low-cost-device-to-check-water-pollution/articleshow/67152970.cms
+
+Date & Time
+Updated: Dec 19, 2018, 09:09 IST
+
+Text
+CHANDIGARH: Officials of the Punjab Pollution Control Board may soon be spared the tasked of collecting samples from water bodies to check the level of pollution in them. 
+
+
+This is because the Indian Institute of Technology (IIT), Ropar, has developed a low-cost device which monitors, reads and disseminates the level of pollution in a water body in real time.
+
+By using pollution sensors, the device measures total dissolved solids (TDS), potassium hydrogen (pH) value, chemical oxygen demand (COD), biological oxygen demand (BOD) and temperature of a water body, and shares the data with the help of a GSM device and microcontroller to a smartphone or any device connected with internet. The system raises an alarm when the level of pollutants are found to be more than permissible limits on a particular stretch. Developed by a team led by Dr Narinder Singh, associate professor, and assistant professors Dr Suman Kumar and Dr Vinayak Hande, the device has been tested successfully.
+
+Explaining the device’s functionality, Dr Singh said different types of sensor were used to measure various parameters. The device will send the information to a computer or smartphone as per the frequency set wirelessly using internet.
+
+An app has been developed to read the collected data on a smartphone. “The device will automatically collect the data on a set time and will go in sleep mode once the data is shared,” shared Dr Suman Kumar.
+
+The team has made efforts to keep the device’s cost down by using low-cost sensors, GSM device and microcontroller. After making a few modifications, the team will file a patent to make, use and sell the device commercially.
+
+Water pollution has emerged as one of the biggest problems in Punjab in recent years. As per the Central Pollution Control Board, a majority of the water bodies in the country are polluted. Industrial waste and untreated sewage are the biggest source of water pollution.
+
+In May this year, Punjab witnessed its worst contamination of water, caused by a molasses leak in the Beas river. 
+
+Dr Singh said the device will help authorities keep a real-time check on level of pollution in rivers caused by industries and take corrective steps. “The government will know how much pollution an industry is causing,” said Dr Singh.
+
+Balbir Singh Seechewal, who is at the forefront of anti-river pollution campaign in Punjab, said the situation had worsened in Punjab in recent years and such devices could be of great help to authorities. 
+
+
+Download The Times of India News App for Latest City News.

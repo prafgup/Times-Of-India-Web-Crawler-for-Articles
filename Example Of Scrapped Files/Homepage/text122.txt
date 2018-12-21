@@ -1,0 +1,46 @@
+Title
+Know why women tend to outlive men - Times of India
+
+Link
+https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/know-why-women-tend-to-outlive-men/articleshow/67159746.cms
+
+Date & Time
+Dec 19, 2018, 14:29 IST
+
+Text
+Scientists have long wondered why women outlive men globally. Now, they have found that the secret may lie in the second X chromosome, present in females.
+
+The study, conducted on mice, showed that females live longer than males, and that XX largely governs this trait in ageing mice. 
+
+The researchers from the University of California San Francisco (UCSF) gave experimental mice four different combinations of chromosomes and gonads: the two found in nature -- XX with ovaries and XY with testes -- and two others created in the laboratory -- XX testes and XY ovaries. 
+
+The X chromosome contains many genes related to the brain, and it is crucial for survival. Without at least one X, an animal cannot live. 
+
+The Y chromosome, present only in males, contains very few genes other than those that create secondary sex characteristics, like male genitals and facial hair, and it is not necessary for survival.
+
+"We've long wondered what causes female longevity," said Dena Dubal, Associate Professor at the UCSF.
+
+"One can imagine nature has driven females to evolve this way. When you're living longer, you can really ensure the well-being of your offspring, and maybe even their offspring," Dubal added.
+
+The study, published in Aging Cell, found that the XX mice lived longer than the XY mice, whether either one had ovaries or testes. But the mice that lived the longest had ovaries, in addition to two X chromosomes - in other words, they displayed natural female mouse biology.
+
+Further, having XX ovaries enabled mice to live longer, beginning at 21 months, which is toward the end of a normal mouse lifespan.
+
+But for the laboratory mice who were genetically female but hormonally male -- two X's plus testes -- the second X chromosome only protected them from dying earlier in life without extending their lives beyond the normal mouse lifespan. 
+
+These benefits trailed off by the time the mice were 23 months old, the researchers noted.
+
+
+	           .firstInnings, .secondInnings{font-family: proxima-regular1, arial, sans-serif; margin: 0 0 15px 0; color: #333}
+	           .firstInnings a, .secondInnings a{color: #333; text-decoration: none}
+	           .batting, .bowling, .innings-equation, .matchstatus{margin: 0 0 15px 0; font-family: proxima-regular1, arial; font-size: 14px; line-height: 18px; }
+	           .innings-equation, .matchstatus, .fallofwckts{background: #fafafa; border: 1px solid #ddd; border-radius: 3px; padding: 10px}
+	           .matchstatus{background: #dadada;}
+	           .fallofwckts {font-size: 14px; line-height: 20px}
+	           .fallofwckts span{padding-right: 10px;}
+	           .batting table, .bowling table{ border-collapse: collapse; width: 100%}
+	           .batting table td, .bowling table td, .bowling table th, .batting table th{border: 1px solid #dadada; padding: 6px;}
+	           .bowling table th, .batting table th{background: #dadada; padding: 8px}
+	           .bowling table tr:nth-child(even), .batting table tr:nth-child(even){background: #fafafa}
+	           .battingTeam{background: #555; color: #fff; padding: 8px; margin: 0 0 10px 0; font-size: 15px}
+	       Download The Times of India News App for Latest Life & Style News.PHOTOS See AllBikini-clad Bipasha shakes up the internetGizele Thakral turns up the heatSteamy pictures of Riya Sen
