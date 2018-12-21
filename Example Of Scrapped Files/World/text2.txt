@@ -1,0 +1,68 @@
+Title
+US charges two Chinese over alleged state-sponsored hacking - Times of India
+
+Link
+https://timesofindia.indiatimes.com/world/us/us-charges-two-chinese-over-alleged-state-sponsored-hacking/articleshow/67187970.cms
+
+Date & Time
+Dec 21, 2018, 09:42 IST
+
+Text
+WASHINGTON: The United States has charged two Chinese men it says hacked the computer systems of companies and government agencies in a dozen countries, in what Washington says was a wide-reaching state-backed campaign of cyber-espionage.
+
+
+NASA and the US Navy were among those allegedly targeted in a programme the US Justice Department said also hit a major bank, telecom companies and healthcare providers in 12 countries.
+
+The charges drew a furious response from Beijing, which accused Washington of "fabricating facts".
+
+Deputy attorney general Rod Rosenstein said China had repeatedly broken President Xi Jinping's 2015 pledge to halt cyberattacks on US companies and commercial infrastructure.
+
+"It is unacceptable that we continue to uncover cybercrime committed by China against other nations," he said.
+
+"We want China to cease its illegal cyber activities and honor its commitment to the international community.
+
+"But the evidence suggests that China may not intend to live up to its promises."
+
+US ally Britain also joined the charge, with Foreign Secretary Jeremy Hunt saying Beijing continued to hack computer systems for commercial and economic motives.
+
+"These activities must stop. They go against the commitments made to the UK in 2015, and, as part of the G20, not to conduct or support cyber-enabled theft of intellectual property or trade secrets," he said.
+
+American officials said evidence showed hackers had targeted Managed Service Providers (MSPs)- specialist firms that help companies manage their information technology systems- potentially giving them access to the computer networks of dozens of companies.
+
+Individual firms were not named in the indictment, but the 45 victims in the United States included government agencies- NASA's Goddard Space Flight Center and Jet Propulsion Laboratory, the Department of Energy's Lawrence Berkeley National Laboratory, and the US Navy, from which the personal information of more than 100,000 personnel was stolen.
+
+Internationally, the hackers are alleged to have broken into the computers of a major bank, three telecommunications or consumer electronics companies, mining and healthcare firms, and business consultancies.
+
+Beijing lashed out at the claims, the latest in a roiling dispute over cybersecurity that pits China against the US and its western allies.
+
+"The United States is fabricating facts, creating something from nothing, and unwarrantedly denouncing China on cybersecurity issues," foreign ministry spokeswoman Hua Chunying said Friday.
+
+Beijing said it had lodged an official protest over the charges and warned the US to drop the prosecution, "to avoid serious damage to the relations between the two countries".
+
+The Justice Department said the two alleged hackers, Zhu Hua and Zhang Shilong, worked for the APT10 group, which Washington, London and other allies say is backed by China's Ministry of State Security.
+
+From at least 2006 to 2018, the APT10 Group "conducted extensive campaigns of intrusions into computer systems around the world", the Justice Department said.
+
+APT10 stole "hundreds of gigabytes" of sensitive data and information from its targets, invading their systems through the hacked MSPs, it added.
+
+The indictments of the two men came less than two months after the US charged 10 Chinese also allegedly linked to APT10- including two intelligence officers- over a five-year scheme to steal aircraft engine technology from US and French aerospace firms.
+
+Those cases involved both hacking and recruiting insiders to steal data and IT system passwords.
+
+Relations between Washington and Beijing are already frayed over trade, hacking and geopolitical issues.
+
+In October, the Department of Justice obtained the unprecedented extradition of a senior Chinese intelligence official from Belgium to stand trial in the United States for running the effort to steal US aviation industry secrets.
+
+In early December, Canada arrested an executive of leading Chinese telecom company Huawei at Washington's request.
+
+The US plans to charge her with fraud related to sanctions-breaking business dealings with Iran.
+
+Since then, China has detained Canadian citizens, in what observers say is an apparent bid to pressure Ottawa into releasing the Huawei executive.
+
+And, according to reports, US officials believe Chinese government-linked hackers were behind the theft of data on some 500 million guests of hotel giant Marriott, first reported on November 30.
+
+Last week, Bill Priestap, head of the FBI's counterintelligence division, told Congress that China's cyberattacks were part of a broad campaign against the US.
+
+"The Chinese government is attempting to acquire or steal not only the plans and intentions of the United States government, but also the ideas and innovations of the very people that make our economy so incredibly successful," he said.
+
+Download The Times of India News App for Latest World News.
