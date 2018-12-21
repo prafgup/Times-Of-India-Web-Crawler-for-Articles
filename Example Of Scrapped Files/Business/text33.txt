@@ -1,0 +1,32 @@
+Title
+Facebook scandal: Facebook reportedly gave tech giants access to users' private messages - Times of India
+
+Link
+https://timesofindia.indiatimes.com/business/international-business/facebook-reportedly-gave-tech-giants-access-to-users-private-messages/articleshow/67160156.cms
+
+Date & Time
+Dec 19, 2018, 15:20 IST
+
+Text
+NEW YORK: Social media giant Facebook has been sharing its users' personal data, including private messages and contact information for users' friends, with some of the world's largest technology companies like Microsoft, Amazon, far beyond what it has publicly admitted, according to leaked internal documents.
+
+
+Facebook gave Netflix and Spotify the ability to read users' private messages. They allowed Microsoft's search engine Bing to see the names of Facebook users' friends without permission, and they let Amazon find users' names and contact information through their friends on the platform, The New York Times reported on Tuesday.
+
+Embroiled in a massive data breach following the Cambridge Analytica scandal, Facebook has been reeling from a series of privacy scandals. In March, it was revealed that a British political consulting firm, Cambridge Analytica, improperly used personal data of up to 87 million Facebook users.
+
+Facebook gave access to user data to more than 150 companies - most of them tech businesses, including online retailers and entertainment sites, but also automakers and media organisations.
+
+In 2011 in an agreement with the Federal Trade Commission (FTC), Facebook stated that the company cannot share user data "without explicit permission."
+
+"This is just giving third parties permission to harvest data without you being informed of it or giving consent to it," David Vladeck, who ran the FTC's consumer protection bureau, was quoted as saying by the report.
+
+The 270-pages internal documents, as well as interviews with about 50 former employees of Facebook and its corporate partners, reveal that Facebook allowed certain companies access to data despite the protections, the report said.
+
+Their applications sought the data of hundreds of millions of people a month, the records show. The deals, the oldest of which date to 2010, were all active in 2017. Some were still in effect this year, the report said.
+
+The documents showed that "while Facebook users can control what data they share with most of the thousands of apps on Facebook's platform, some companies had access to users' data even if they had disabled all sharing."
+
+Mark Zuckerberg, who co-founded Facebook in 2004, assured US lawmakers in April that people "have complete control" over everything they share on Facebook. He acknowledged that it had breached users' trust and insisted that it had instituted stricter privacy protections long ago.
+
+Download The Times of India News App for Latest Business News.

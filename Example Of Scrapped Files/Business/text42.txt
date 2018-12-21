@@ -1,0 +1,28 @@
+Title
+New Facebook bug may have exposed unposted photos - Times of India
+
+Link
+https://timesofindia.indiatimes.com/business/international-business/new-facebook-bug-may-have-exposed-unposted-photos/articleshow/67097212.cms
+
+Date & Time
+Dec 14, 2018, 21:58 IST
+
+Text
+SAN FRANCISCO: Facebook apologized on Friday for a "bug" that may have exposed unposted photos from as many as 6.8 million users over a 12-day period through third-party applications.
+
+
+In the latest in a string of incidents on data protection, the leading social network said using Facebook login and granting permission to third-party apps to access photos may have led to the unintended lapse between September 13 and 25.
+
+"When someone gives permission for an app to access their photos on Facebook, we usually only grant the app access to photos people share on their timeline," engineering director Tomer Bar said in a message to developers.
+
+"In this case, the bug potentially gave developers access to other photos, such as those shared on Marketplace or Facebook Stories." Bar added that the bug also impacted photos that people uploaded to Facebook but chose not to post -- in situations where someone uploads a photo but doesn't finish posting it, for example.
+
+"We store a copy of that photo so the person has it when they come back to the app to complete their post," he said.
+
+Bar said affected users would be notified and directed to a help center where they will be able to see what images may have been affected.
+
+"We're sorry this happened," he said. "Early next week we will be rolling out tools for app developers that will allow them to determine which people using their app might be impacted by this bug. We will be working with those developers to delete the photos from impacted users."
+
+Facebook has been facing heightened scrutiny over its data protection practices in recent months, notably since the revelations over hijacking of personal data of tens of millions of users by Cambridge Analytica, a consultancy working on Donald Trump's 2016 campaign. 
+
+Download The Times of India News App for Latest Business News.
